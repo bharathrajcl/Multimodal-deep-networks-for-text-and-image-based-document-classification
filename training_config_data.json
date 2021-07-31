@@ -1,0 +1,6 @@
+{"data_folder_path": "C:/Users/Bharathraj C L/Downloads/paper to implement/page stream tensorflow/merge_data", 
+"image_size": [128, 128], 
+"base_file_path": "C:/Users/Bharathraj C L/Downloads/paper to implement/page stream tensorflow/data_all.csv", 
+"No_of_rows_per_label": 500,
+"No_of_rows_per_label_for_embeddings_creation":2000, 
+"Embedding_required": false, "train_option_dict": {"image_model": true, "text_model": true, "merge_model": true}, "epochs": 20, "batch_size": 50, "image_model_path": "save_image_model", "text_model_path": "save_text_model", "merge_model_path": "save_merge_model", "image_model_build_path": "scratch", "text_model_build_path": "scratch", "merge_model_build_path": "scratch", "length": 1000}
